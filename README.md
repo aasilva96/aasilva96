@@ -17,6 +17,9 @@
   
   ##
   
- <div>
-            ![Snake animation](https://github.com/aasilva96/aasilva96/blob/output/github-contribution-grid-snake.svg)
- </div>
+<div> 
+ 
+ 
+  ![Snake animation](https://github.com/aasilva96/aasilva96/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
